@@ -38,3 +38,13 @@ If you are interested in any of my media you can access through this links:
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### Repositories used:
+- Badges:
+    - View counter by [antonkomarev](https://github.com/antonkomarev/github-profile-views-counter)
+    - Social Media badges by [shields.io](https://shields.io/)
+- Cards:
+    - ReadmeCards and GitHub stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+- Icons:
+    - Tool icons by [devicons](https://github.com/devicons/devicon/tree/master/icons)
