@@ -10,16 +10,20 @@ I had the opportunity of being part of the program ["Hackea tu futuro"](https://
 
 If you are interested in any of my media you can access through this links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielopezpajares/) [![Glassdoor](https://img.shields.io/badge/Glassdoor-86c969?style=for-the-badge&logo=glassdoor)](https://www.glassdoor.es/member/profile/index.htm) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/icharo-tb)
+![](https://komarev.com/ghpvc/?username=icharo-tb&style=for-the-badge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielopezpajares/) [![Glassdoor](https://img.shields.io/badge/Glassdoor-86c969?style=for-the-badge&logo=glassdoor)](https://www.glassdoor.es/member/profile/index.htm) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/icharo-tb)
 ---
 ### But you may be wondering what I do here in my GitHub, so let's dive in:writing_hand:.
 
 **Currently I have 2 main repositories active:**
 
-- [GW2-SRS](https://github.com/icharo-tb/GW2_SRS)
+- GW2-SRS
     ---
     - This is my main serious project repository. GW2-SRS is a system to study raid results, both kills and defeats, in order to understand which classes in the game are better for each boss. I have the idea of finishing this project with a Machine Learning algorithm that could recommend a new player which class he/she should build, based on the player preferences. Now the project comprehends more than that, all the information can be founded on the README file in the repository.
 
-- [Git Practice](https://github.com/icharo-tb/Git_practice)
+- Git Practice
     ---
     - In this repository, I wanted to embrace and include every exercise and study I do around Data Engineering topics. It is focused on Python as the main coding language, although there are also mongodb code and some other surprises you should find by exploring the repository. Everything is explained in the README file as well.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice)
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icharo-tb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
