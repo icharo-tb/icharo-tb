@@ -11,6 +11,7 @@ I had the opportunity of being part of the program ["Hackea tu futuro"](https://
 If you are interested in any of my media you can access through this links:
 
 ![](https://komarev.com/ghpvc/?username=icharo-tb&style=for-the-badge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielopezpajares/) [![Glassdoor](https://img.shields.io/badge/Glassdoor-86c969?style=for-the-badge&logo=glassdoor)](https://www.glassdoor.es/member/profile/index.htm) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/icharo-tb) [![Stack Overflow](https://img.shields.io/badge/Stack Overflow-ec965d?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/19949114/icharo-tb)
+
 ---
 ### But you may be wondering what do I do here in my GitHub, so let's dive in:writing_hand:.
 
