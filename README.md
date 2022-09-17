@@ -18,11 +18,11 @@ If you are interested in any of my media you can access through this links:
 
 - GW2-SRS
     ---
-    - This is my main serious project repository. GW2-SRS is a system to study raid results, both kills and defeats, in order to understand which classes in the game are better for each boss. I have the idea of finishing this project with a Machine Learning algorithm that could recommend a new player which class he/she should build, based on the player preferences. Now the project comprehends more than that, all the information can be founded on the README file in the repository.
+    - This is my main serious project repository. GW2-SRS is a system to study raid results, both kills and defeats, in order to understand which classes in the game are better for each boss. I have the idea of finishing this project with a Machine Learning algorithm that could recommend a new player which class he/she should build, based on the player preferences. Now, the project comprehends more than that, all the information can be found on the README file in the repository.
 
 - Git Practice
     ---
-    - In this repository, I wanted to embrace and include every exercise and study I do around Data Engineering topics. It is focused on Python as the main coding language, although there are also mongodb code and some other surprises you should find by exploring the repository. Everything is explained in the README file as well.
+    - In this repository, I wanted to put together and include every exercise and study I do around Data Engineering topics. It is focused on Python as the main coding language, although there are also mongodb code and some other surprises you should find by exploring the repository. Everything is explained in the README file as well.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice)
 ---
