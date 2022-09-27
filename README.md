@@ -1,10 +1,10 @@
 <div align="center">
-    <h1>:hugs:Welcome to my profile!:hugs:</h1>
+    <h1>:hugs: Welcome to my profile! :hugs:</h1>
 </div>
 
-### Who am I?:thinking:
+### Who am I? :thinking:
 
-My name is Daniel:wave:, I'm from Madrid, Spain and I started my journey to become a Data Engineer in 2022. I was always attracted to both art and programming, so after a time I decided to give a chance to this fantastic field which I actually enjoy every day.
+My name is Daniel :wave:, I'm from Madrid, Spain and I started my journey to become a Data Engineer in 2022. I was always attracted to both art and programming, so after a time I decided to give a chance to this fantastic field which I actually enjoy every day.
 
 I had the opportunity of being part of the program ["Hackea tu futuro"](https://www.hackeatufuturo.es/) imparted by The Valley with the collaboration of Barrabes.biz and Red.es. We learnt about Big Data, what roles do the field offers, which techniques and technologies are being used and much more.
 
@@ -12,7 +12,7 @@ If you are interested in any of my media you can access through this links:
 
 ![](https://komarev.com/ghpvc/?username=icharo-tb&style=for-the-badge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielopezpajares/) [![Glassdoor](https://img.shields.io/badge/Glassdoor-86c969?style=for-the-badge&logo=glassdoor)](https://www.glassdoor.es/member/profile/index.htm) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/icharo-tb) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19949114/icharo-tb)
 ---
-### But you may be wondering what do I do here in my GitHub, so let's dive in:writing_hand:.
+### But you may be wondering what do I do here in my GitHub, so let's dive in :writing_hand:.
 
 **Currently I have 2 main repositories active:**
 
