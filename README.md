@@ -24,8 +24,7 @@ If you are interested in any of my media you can access through this links:
     ---
     - In this repository, I wanted to put together and include every exercise and study I do around Data Engineering topics. It is focused on Python as the main coding language, although there are also mongodb code and some other surprises you should find by exploring the repository. Everything is explained in the README file as well.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icharo-tb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 ---
