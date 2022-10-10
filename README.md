@@ -8,13 +8,13 @@ My name is Daniel :wave:, I'm from Madrid, Spain and I started my journey to bec
 
 I had the opportunity of being part of the program ["Hackea tu futuro"](https://www.hackeatufuturo.es/) imparted by The Valley with the collaboration of Barrabes.biz and Red.es. We learnt about Big Data, what roles do the field offers, which techniques and technologies are being used and much more.
 
+## Let's Connect :link:
 If you are interested in any of my media you can access through this links:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielopezpajares/) [![Glassdoor](https://img.shields.io/badge/Glassdoor-86c969?style=for-the-badge&logo=glassdoor)](https://www.glassdoor.es/member/profile/index.htm) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/icharo-tb) [![GitLab](https://img.shields.io/badge/GitLab-D15C36?style=for-the-badge&logo=gitlab)](https://gitlab.com/daniel.lopez.pajares.2021) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19949114/icharo-tb)
 
 ![](https://komarev.com/ghpvc/?username=icharo-tb&style=for-the-badge) 
 
-## Let's Connect :link:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4b73bf?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danielopezpajares/) [![Glassdoor](https://img.shields.io/badge/Glassdoor-86c969?style=for-the-badge&logo=glassdoor)](https://www.glassdoor.es/member/profile/index.htm) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/icharo-tb) [![GitLab](https://img.shields.io/badge/GitLab-D15C36?style=for-the-badge&logo=gitlab)](https://gitlab.com/daniel.lopez.pajares.2021) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19949114/icharo-tb)
 ---
 ### But you may be wondering what do I do here in my GitHub, so let's dive in :writing_hand:.
 
