@@ -28,7 +28,7 @@ If you are interested in any of my media you can access through this links:
     - In this repository, I wanted to put together and include every exercise and study I do around Data Engineering topics. It is focused on Python as the main coding language, although there are also mongodb code and some other surprises you should find by exploring the repository. Everything is explained in the README file as well.
 
 <div align='center'>
-**Important:** *I also open new repositories from time to time where I practice several things, from algorithms, programming tasks or just new technologies or techniques. Nonetheless, the main repository sites, are the ones specified before.*
+<b>Important:</b> <i>I also open new repositories from time to time where I practice several things, from algorithms, programming tasks or just new technologies or techniques. Nonetheless, the main repository sites, are the ones specified before.</i>
 </div>
 
 
