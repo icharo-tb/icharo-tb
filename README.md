@@ -27,10 +27,9 @@ If you are interested in any of my media you can access through this links:
     ---
     - In this repository, I wanted to put together and include every exercise and study I do around Data Engineering topics. It is focused on Python as the main coding language, although there are also mongodb code and some other surprises you should find by exploring the repository. Everything is explained in the README file as well.
 
-<div align='center' style="border:2px #CCEEFF;">
-<b>Important:</b> <i>I also open new repositories from time to time where I practice several things, from algorithms, programming tasks or just new
-technologies or techniques. Nonetheless, the main repository sites, are the ones specified before.</i>
-</div>
+
+> **Important:** *I also open new repositories from time to time where I practice several things, from algorithms, programming tasks or just new
+technologies or techniques. Nonetheless, the main repository sites, are the ones specified before.*
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice)
