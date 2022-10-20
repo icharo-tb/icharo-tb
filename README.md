@@ -23,16 +23,20 @@ If you are interested in any of my media you can access through this links:
     ---
     - This is my main serious project repository. GW2-SRS is a system to study raid results, both kills and defeats, in order to understand which classes in the game are better for each boss. I have the idea of finishing this project with a Machine Learning algorithm that could recommend a new player which class he/she should build, based on the player preferences. Now, the project comprehends more than that, all the information can be found on the README file in the repository.
 
-- Git Practice
+- Git_practice
     ---
     - In this repository, I wanted to put together and include every exercise and study I do around Data Engineering topics. It is focused on Python as the main coding language, although there are also mongodb code and some other surprises you should find by exploring the repository. Everything is explained in the README file as well.
+
+- Users_practice
+    ---
+    - Since I started learning about Data Engineering, I always ended up thinking that, we always work with data, some data is really important, some other data is not. Data security is something always concerned me, so I decided trying password hashing here, I retrieved fake users data from an API and then hash all passwords for all the users, updating the table to a new one where that particular information is stored but not compromised.
 
 
 > **Important:** I also open new repositories from time to time where I practice several things, from algorithms, programming tasks or just new
 technologies or techniques. Nonetheless, the main repository sites, are the ones specified before.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=users_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/users_practice)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icharo-tb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 ---
