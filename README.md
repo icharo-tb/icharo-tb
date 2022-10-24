@@ -26,6 +26,10 @@ If you are interested in any of my media you can access through this links:
 - Git_practice
     ---
     - In this repository, I wanted to put together and include every exercise and study I do around Data Engineering topics. It is focused on Python as the main coding language, although there are also mongodb code and some other surprises you should find by exploring the repository. Everything is explained in the README file as well.
+    
+- Courses
+    ---
+    - I made this repository to work as a backup for my CV. Since listing all courses on a single CV can be quite overwhelming, I decided creating a course list written as a JSON, which makes it really easy to include on a database.
 
 - Users_practice
     ---
@@ -36,7 +40,7 @@ If you are interested in any of my media you can access through this links:
 technologies or techniques. Nonetheless, the main repository sites, are the ones specified before.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=users_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/users_practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=users_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/users_practice) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=courses&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Courses)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icharo-tb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 ---
