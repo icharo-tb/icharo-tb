@@ -40,7 +40,9 @@ If you are interested in any of my media you can access through this links:
 technologies or techniques. Nonetheless, the main repository sites, are the ones specified before.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=users_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/users_practice) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=courses&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Courses)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=gw2_srs&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/GW2_SRS) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=git_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Git_practice) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=users_practice&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/users_practice) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icharo-tb&repo=courses&show_owner=true&theme=tokyonight)](https://github.com/icharo-tb/Courses)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icharo-tb&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 ---
